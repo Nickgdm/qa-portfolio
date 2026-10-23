@@ -59,8 +59,45 @@ Conforme o projeto, o portfólio inclui JavaScript, Node.js, Jest, Cypress, Post
 3. Consulte os arquivos de teste, configurações e evidências disponíveis.
 4. Siga as instruções específicas do projeto para instalar dependências e executar os testes.
 
-## Sobre
+## Estrutura do portfólio
 
-Projetos desenvolvidos para praticar ferramentas, técnicas de teste e boas práticas de documentação durante a formação em **Quality Assurance na EBAC**.
+```text
+Portfólio QA
+├── Projetos
+│   ├── Automação Web
+│   ├── Automação de API
+│   ├── Testes de Unidade
+│   ├── Testes de Performance
+│   └── CI/CD e Qualidade Contínua
+├── Desafios práticos
+├── Boas práticas adotadas
+└── Considerações finais
+```
 
-Este portfólio tem finalidade educacional. Os cenários, requisitos e resultados específicos devem ser consultados nos repositórios individuais.
+As categorias representam a organização lógica dos repositórios neste portfólio; cada projeto permanece em seu próprio repositório GitHub.
+
+## Desafios práticos
+
+As atividades incluem exercitar diferentes tipos de teste, parametrizar dados, configurar ambientes, interpretar resultados e documentar procedimentos de execução. Os detalhes de cada desafio estão descritos no README do respectivo repositório.
+
+## Boas práticas adotadas
+
+- Separação dos projetos por área técnica.
+- Documentação de objetivos, ferramentas e instruções de execução.
+- Uso de versionamento Git e links para os repositórios individuais.
+- Registro de evidências quando disponíveis.
+- Descrição dos escopos sem presumir resultados não verificados.
+
+## Aprendizados
+
+A organização deste portfólio ajuda a consolidar práticas de automação web e de API, testes unitários, performance, automação mobile, bancos de dados, containers e CI/CD. Também reforça a importância de documentar os objetivos, pré-requisitos, cenários e formas de execução de cada projeto.
+
+## Considerações finais
+
+Este portfólio reúne atividades práticas desenvolvidas ao longo da formação em QA. Consulte cada repositório para verificar sua implementação, seus requisitos e suas instruções específicas.
+
+---
+
+## Formação
+
+Portfólio desenvolvido durante a formação profissionalizante em **Quality Assurance (QA) pela EBAC — Escola Britânica de Artes Criativas e Tecnologia**.
