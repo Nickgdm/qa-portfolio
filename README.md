@@ -48,6 +48,12 @@ Portfólio de projetos práticos desenvolvidos durante a formação em **Quality
 - [Prática de Git — EBAC](https://github.com/Nickgdm/aula-git-ebac) — exercício de versionamento e edição de arquivo.
 - [Exercícios BDD — EBAC](https://github.com/Nickgdm/Ebac) — arquivos de funcionalidades Gherkin.
 
+## Escopo e observações
+
+Este portfólio reúne projetos de estudo e exercícios práticos. A presença de uma ferramenta ou tecnologia indica que ela foi abordada em uma atividade; não significa, por si só, que todos os cenários foram executados em ambiente de produção.
+
+**Como avaliar cada projeto:** consulte o README individual, confira os arquivos de teste e as configurações e execute os comandos descritos quando o ambiente estiver disponível. Resultados, cobertura e evidências devem ser confirmados nos próprios artefatos do projeto.
+
 ## Tecnologias e ferramentas
 
 Conforme o projeto, o portfólio inclui JavaScript, Node.js, Jest, Cypress, Postman, Appium, WebdriverIO, Cucumber, k6, Apache JMeter, SQL, MongoDB, Docker, Docker Compose e Jenkins.
