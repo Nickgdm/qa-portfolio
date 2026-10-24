@@ -88,7 +88,7 @@ As atividades incluem exercitar diferentes tipos de teste, parametrizar dados, c
 - Registro de evidências quando disponíveis.
 - Descrição dos escopos sem presumir resultados não verificados.
 
-## Aprendizados
+## 📚 Aprendizados
 
 A organização deste portfólio ajuda a consolidar práticas de automação web e de API, testes unitários, performance, automação mobile, bancos de dados, containers e CI/CD. Também reforça a importância de documentar os objetivos, pré-requisitos, cenários e formas de execução de cada projeto.
 
@@ -98,6 +98,6 @@ Este portfólio reúne atividades práticas desenvolvidas ao longo da formação
 
 ---
 
-## Formação
+## 🎓 Formação
 
 Portfólio desenvolvido durante a formação profissionalizante em **Quality Assurance (QA) pela EBAC — Escola Britânica de Artes Criativas e Tecnologia**.
