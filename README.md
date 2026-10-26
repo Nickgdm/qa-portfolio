@@ -1,90 +1,19 @@
 # Portfólio de Quality Assurance (QA)
 
-Portfólio de projetos práticos desenvolvidos durante a formação em **Quality Assurance (QA) na EBAC**. Os repositórios estão organizados pelas áreas técnicas do exercício final, com uma descrição objetiva do foco de cada atividade.
+Este repositório reúne projetos e desafios práticos desenvolvidos durante a formação em **Quality Assurance (QA) pela EBAC — Escola Britânica de Artes Criativas e Tecnologia**. O objetivo é centralizar os trabalhos em um único ponto de entrada, facilitando a navegação por área técnica e a consulta aos arquivos de cada projeto.
 
-> **Nota sobre o escopo:** este portfólio reúne projetos de estudo e exercícios. A presença de uma tecnologia ou ferramenta indica que ela foi abordada no projeto; não significa, por si só, experiência profissional ou execução em produção. Consulte o README de cada repositório para pré-requisitos, instruções e limitações específicas.
+> **Sobre o portfólio:** os links abaixo direcionam para repositórios independentes. São atividades de estudo e prática; a inclusão de uma ferramenta indica que ela faz parte do projeto relacionado, não uma experiência profissional ou uso em produção. Consulte o README de cada repositório para conhecer o escopo, os pré-requisitos e as instruções de execução.
 
-## 1. Automação de UI com Cypress
+## Objetivo do portfólio
 
-Projetos de automação de interface web e prática inicial com Cypress e Node.js.
+- Organizar os projetos desenvolvidos ao longo do curso.
+- Facilitar a consulta ao código, aos cenários de teste e às configurações de cada atividade.
+- Demonstrar a aplicação prática dos conceitos estudados em QA, automação, performance, integração contínua e documentação.
+- Manter uma apresentação clara, navegável e versionada dos trabalhos.
 
-- [Hub de Leitura — projeto-base e aplicação de apoio](https://github.com/Nickgdm/teste-cy-base) — aplicação usada como base para atividades de QA.
-- [Hub de Leitura — testes de UI com Cypress](https://github.com/Nickgdm/hub-de-leitura-teste-ui) — cenários de automação de interface.
-- [Hub de Leitura — tarefa de testes de UI](https://github.com/Nickgdm/Atividade-hub-de-leitura-teste-ui-task) — exercício prático de testes de interface.
+## Estrutura do portfólio
 
-## 2. Testes Automatizados de API REST
-
-Testes de endpoints e validação de respostas de APIs. A coleção do Postman também pode servir como referência para exploração manual.
-
-- [Hub de Leitura — testes de API com Cypress](https://github.com/Nickgdm/hub-de-leitura-api-teste) — automação de testes da API.
-- [Hub de Leitura — tarefa de testes de API](https://github.com/Nickgdm/hub-de-leitura-api-teste-task) — atividade prática de testes de API REST.
-- [Catálogo de Livros — coleção Postman](https://github.com/Nickgdm/atividade-API-Ebac) — coleção de requisições para explorar e validar a API do catálogo de livros.
-
-## 3. DevOps — pipelines e integração contínua
-
-Projetos que exploram a execução de testes em pipelines e a automação de etapas de CI/CD.
-
-- [Pipeline de testes com Jenkins](https://github.com/Nickgdm/ci-cd-teste-jenkins) — configuração de pipeline com Jenkins.
-- [Exemplo de CI/CD com Cypress e Docker](https://github.com/Nickgdm/atividade-ci-cd-teste-exemplo) — arquivos de pipeline e execução de testes.
-- [Cucumber com Cypress e Jenkins](https://github.com/Nickgdm/Atividade-cucumber-cypress) — projeto de BDD que também contém um Jenkinsfile.
-
-## 4. Projeto com Docker
-
-Projetos que usam containers para configurar aplicações e/ou executar testes em ambientes definidos.
-
-- [Docker Compose — Golden Movie Studio](https://github.com/Nickgdm/atividade-docker) — aplicação com serviços de backend, frontend e testes Cypress.
-- [Docker Compose — Hub de Leitura](https://github.com/Nickgdm/atividade-docker-hub-de-leitura) — ambiente integrado para a aplicação e os testes de UI.
-
-## 5. Automação de UI com Cypress — avançado
-
-Exercícios com recursos avançados do Cypress e/ou abordagem BDD.
-
-- [Cypress — Intercept e App Actions](https://github.com/Nickgdm/Atividade-Intercept-AppActions-cypress) — prática com interceptação de chamadas e ações da aplicação.
-- [Cypress com Cucumber — BDD](https://github.com/Nickgdm/Atividade-cucumber-cypress) — cenários descritos com Gherkin e abordagem orientada a comportamento.
-
-## 6. Testes de Performance
-
-Cenários e ferramentas para praticar testes de carga e análise de desempenho.
-
-- [Performance com k6 — Hub de Leitura/API](https://github.com/Nickgdm/atividade-k6) — scripts de teste de carga e estresse.
-- [Performance com Apache JMeter — BlazeDemo](https://github.com/Nickgdm/atividade-jmeter-blazedemo) — plano de teste JMeter e configuração de dados.
-
-## 7. Automação Mobile com Appium
-
-- [Automação mobile com Appium e WebdriverIO](https://github.com/Nickgdm/atividade-appium-wdio) — projeto de automação de testes mobile, com cenários para Android.
-
-## 8. Testes de Unidade com JavaScript
-
-- [Testes unitários com JavaScript e Jest](https://github.com/Nickgdm/atividade-exercicio-js) — exercícios de testes unitários e cobertura de código.
-
-## 9. Inteligência Artificial aplicada a QA
-
-- [QA Prompt Assistant](https://github.com/Nickgdm/qa-prompt-assistant) — ferramenta de terminal em Python para apoiar a criação e revisão de prompts relacionados a casos de teste, análise de requisitos, relatos de bugs, testes de API e automação. Explora provedores de IA por API e modelos locais via Ollama. A saída gerada deve ser revisada criticamente; a ferramenta apoia o trabalho de QA, mas não substitui a validação humana.
-
-## Projetos complementares da formação
-
-Os projetos abaixo complementam o portfólio, embora não correspondam diretamente a uma das nove categorias obrigatórias do exercício.
-
-- [Exercícios BDD/Gherkin — EBAC](https://github.com/Nickgdm/Ebac) — arquivos `.feature` com cenários de cadastro, configuração e login. O repositório contém especificações Gherkin; não foi identificado nele um executor completo com definições de passos.
-- [Consultas SQL](https://github.com/Nickgdm/atividade-SQL) — exercício de consultas em banco de dados relacional.
-- [Consultas MongoDB/NoSQL](https://github.com/Nickgdm/atividade-NoSQL) — consultas e dados de exemplo para praticar operações NoSQL.
-- [Fundamentos de Git e GitHub — EBAC](https://github.com/Nickgdm/aula-git-ebac) — atividade introdutória de versionamento.
-- [qa-toolbox — portfólio principal](https://github.com/Nickgdm/qa-toolbox) — este repositório reúne os links e a organização dos projetos.
-
-## Tecnologias e ferramentas
-
-Conforme o projeto, o portfólio inclui JavaScript, Node.js, Jest, Cypress, Postman, Appium, WebdriverIO, Cucumber/Gherkin, k6, Apache JMeter, SQL, MongoDB, Docker, Docker Compose e Jenkins.
-
-## Como explorar os projetos
-
-1. Abra o repositório pelo link da categoria correspondente.
-2. Leia o README individual para entender o objetivo, os pré-requisitos e os comandos de instalação e execução.
-3. Consulte os arquivos de teste, configurações, coleções e evidências disponíveis.
-4. Execute os projetos seguindo as instruções específicas e considerando as dependências do ambiente.
-
-## Estrutura lógica do portfólio
-
-Os projetos continuam armazenados em repositórios GitHub separados. A estrutura abaixo representa a organização por categoria usada neste README.
+A organização segue as categorias sugeridas na atividade final da formação. Como os projetos estão em repositórios GitHub separados, os links abaixo funcionam como índice central.
 
 ```text
 Portfólio QA
@@ -99,25 +28,106 @@ Portfólio QA
 └── Considerações finais
 ```
 
+## Projetos
+
+### 1. Automação de UI com Cypress
+
+Projetos voltados à automação de fluxos de interface web com Cypress e Node.js.
+
+- [Aplicação de apoio — Hub de Leitura](https://github.com/Nickgdm/teste-cy-base) — aplicação utilizada como base para atividades de QA.
+- [Testes de UI com Cypress — Hub de Leitura](https://github.com/Nickgdm/hub-de-leitura-teste-ui) — cenários de automação da interface.
+- [Desafio de testes de UI — Hub de Leitura](https://github.com/Nickgdm/Atividade-hub-de-leitura-teste-ui-task) — atividade prática de testes de interface.
+
+### 2. Testes Automatizados de API REST
+
+Projetos para exercitar requisições HTTP, validação de endpoints e respostas de APIs.
+
+- [Testes de API com Cypress — Hub de Leitura](https://github.com/Nickgdm/hub-de-leitura-api-teste) — automação de testes de API.
+- [Desafio de testes de API — Hub de Leitura](https://github.com/Nickgdm/hub-de-leitura-api-teste-task) — atividade prática de testes de API REST.
+- [Coleção Postman — Catálogo de Livros](https://github.com/Nickgdm/atividade-API-Ebac) — coleção de requisições para explorar e validar a API do catálogo de livros.
+
+### 3. DevOps — CI/CD e Qualidade Contínua
+
+Atividades que exploram pipelines e integração da execução de testes ao fluxo de desenvolvimento.
+
+- [Pipeline de testes com Jenkins](https://github.com/Nickgdm/ci-cd-teste-jenkins) — configuração de pipeline com Jenkins.
+- [Exemplo de CI/CD com Cypress e Docker](https://github.com/Nickgdm/atividade-ci-cd-teste-exemplo) — arquivos relacionados à integração e execução de testes.
+- [Cypress com Cucumber e Jenkins](https://github.com/Nickgdm/Atividade-cucumber-cypress) — projeto de BDD que também contém um Jenkinsfile.
+
+### 4. Projeto com Docker
+
+Projetos que utilizam containers para configurar aplicações e/ou executar testes em ambientes definidos.
+
+- [Docker — Golden Movie Studio](https://github.com/Nickgdm/atividade-docker) — ambiente com serviços de aplicação e testes Cypress.
+- [Docker — Hub de Leitura](https://github.com/Nickgdm/atividade-docker-hub-de-leitura) — configuração de ambiente para a aplicação e os testes de UI.
+
+### 5. Automação de UI com Cypress — Avançado
+
+Exercícios com recursos avançados do Cypress e/ou especificação de cenários com BDD.
+
+- [Cypress — Intercept e App Actions](https://github.com/Nickgdm/Atividade-Intercept-AppActions-cypress) — prática com interceptação de chamadas e ações da aplicação.
+- [Cypress com Cucumber — BDD](https://github.com/Nickgdm/Atividade-cucumber-cypress) — cenários escritos com Gherkin e abordagem orientada a comportamento.
+
+### 6. Testes de Performance
+
+Projetos para praticar testes de carga e estresse e observar métricas de desempenho.
+
+- [Testes de performance com k6 — Hub de Leitura/API](https://github.com/Nickgdm/atividade-k6) — scripts de teste de performance.
+- [Testes de performance com Apache JMeter — BlazeDemo](https://github.com/Nickgdm/atividade-jmeter-blazedemo) — plano e configuração de testes com JMeter.
+
+### 7. Automação Mobile com Appium
+
+- [Appium e WebdriverIO](https://github.com/Nickgdm/atividade-appium-wdio) — projeto de automação mobile com cenários voltados a Android.
+
+### 8. Testes de Unidade com JavaScript
+
+- [JavaScript e Jest](https://github.com/Nickgdm/atividade-exercicio-js) — exercícios de testes unitários e cobertura de código.
+
+### 9. Testes com Inteligência Artificial
+
+- [QA Prompt Assistant](https://github.com/Nickgdm/qa-prompt-assistant) — ferramenta de terminal em Python para apoiar a criação e revisão de prompts relacionados a cenários de teste, análise de requisitos, relatos de bugs, testes de API e automação. Explora provedores de IA por API e modelos locais via Ollama. As sugestões devem ser revisadas e validadas por uma pessoa; a ferramenta é um apoio, não substitui a análise de QA.
+
+## Projetos complementares da formação
+
+Os repositórios abaixo complementam os estudos, mas não substituem os projetos listados nas nove categorias principais.
+
+- [Exercícios BDD/Gherkin — EBAC](https://github.com/Nickgdm/Ebac) — arquivos `.feature` com cenários de cadastro, configuração e login. O repositório reúne especificações Gherkin; consulte seus arquivos para verificar o escopo implementado.
+- [Consultas SQL](https://github.com/Nickgdm/atividade-SQL) — exercícios de consultas em banco de dados relacional.
+- [Consultas MongoDB/NoSQL](https://github.com/Nickgdm/atividade-NoSQL) — consultas e dados de exemplo para praticar operações NoSQL.
+- [Fundamentos de Git e GitHub — EBAC](https://github.com/Nickgdm/aula-git-ebac) — atividade introdutória de versionamento.
+
+## Tecnologias e ferramentas
+
+De acordo com cada atividade, os repositórios incluem tecnologias e ferramentas como JavaScript, Node.js, Cypress, Jest, Postman, Appium, WebdriverIO, Cucumber/Gherkin, k6, Apache JMeter, SQL, MongoDB, Docker, Docker Compose e Jenkins. A descrição específica de cada projeto está no respectivo README.
+
+## Como explorar e executar os projetos
+
+1. Escolha uma categoria e abra o repositório correspondente.
+2. Leia o README individual antes de executar o projeto.
+3. Confira os pré-requisitos, as dependências e os comandos de instalação e execução.
+4. Analise os testes, cenários, arquivos de configuração, coleções e evidências disponíveis.
+5. Considere as limitações e dependências específicas de cada ambiente.
+
 ## Desafios práticos
 
-As atividades permitem praticar diferentes tipos de teste, criar cenários, validar APIs, configurar ambientes, interpretar resultados e documentar procedimentos de execução. Os detalhes e eventuais limitações de cada desafio estão descritos no README do respectivo repositório.
+As atividades da formação permitem praticar diferentes etapas do trabalho de QA, como interpretar requisitos, estruturar cenários, validar interfaces e APIs, configurar ambientes de execução, analisar resultados e documentar procedimentos. O escopo de cada desafio deve ser consultado no repositório correspondente.
 
 ## Boas práticas adotadas
 
-- Organização dos projetos por área técnica.
-- Links diretos para os repositórios individuais.
-- Documentação de objetivo, ferramentas, pré-requisitos e instruções de execução, conforme o conteúdo de cada projeto.
-- Uso de Git e GitHub para versionamento e apresentação do trabalho.
-- Descrição transparente do escopo, sem afirmar resultados ou experiência que não estejam demonstrados nos artefatos.
+- Organização dos projetos por categoria técnica.
+- Links diretos para os repositórios de cada atividade.
+- Documentação em Markdown para orientar a navegação e a execução.
+- Uso de Git e GitHub para versionamento dos trabalhos.
+- Descrições objetivas e alinhadas ao conteúdo disponível em cada repositório.
+- Transparência sobre o escopo dos projetos, sem presumir resultados ou experiência que não estejam demonstrados nos arquivos.
 
 ## 📚 Aprendizados
 
-A organização do portfólio consolida estudos de automação web e de API, testes unitários, performance, automação mobile, bancos de dados, containers e CI/CD. Também reforça a importância de estruturar cenários, compreender as ferramentas utilizadas e documentar como cada projeto pode ser configurado e executado.
+A organização deste portfólio consolida os estudos em automação web e de API, testes unitários, performance, automação mobile, bancos de dados, containers, CI/CD e uso de inteligência artificial como apoio às atividades de QA. O processo também reforça a importância de estruturar projetos, documentar sua configuração e tornar os trabalhos fáceis de revisar e reproduzir.
 
 ## Considerações finais
 
-Este portfólio reúne atividades práticas desenvolvidas ao longo da formação em QA. Ele será atualizado conforme os projetos forem revisados e as categorias pendentes forem completadas. Antes de considerar uma atividade concluída, consulte seus arquivos e siga as instruções de execução descritas no README individual.
+Este repositório funciona como índice central dos projetos desenvolvidos durante a formação em QA. Os trabalhos estão distribuídos em repositórios independentes e podem ser consultados pelos links acima. A documentação e os projetos poderão ser aprimorados à medida que forem revisados e evoluírem.
 
 ---
 
