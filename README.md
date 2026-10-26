@@ -34,67 +34,67 @@ Portfólio QA
 
 Projetos voltados à automação de fluxos de interface web com Cypress e Node.js.
 
-- [Aplicação de apoio — Hub de Leitura](https://github.com/Nickgdm/teste-cy-base) — aplicação utilizada como base para atividades de QA.
-- [Testes de UI com Cypress — Hub de Leitura](https://github.com/Nickgdm/hub-de-leitura-teste-ui) — cenários de automação da interface.
-- [Desafio de testes de UI — Hub de Leitura](https://github.com/Nickgdm/Atividade-hub-de-leitura-teste-ui-task) — atividade prática de testes de interface.
+- [teste-cy-base](https://github.com/Nickgdm/teste-cy-base) — aplicação utilizada como base para atividades de QA.
+- [hub-de-leitura-teste-ui](https://github.com/Nickgdm/hub-de-leitura-teste-ui) — cenários de automação da interface.
+- [Atividade-hub-de-leitura-teste-ui-task](https://github.com/Nickgdm/Atividade-hub-de-leitura-teste-ui-task) — atividade prática de testes de interface.
 
 ### 2. Testes Automatizados de API REST
 
 Projetos para exercitar requisições HTTP, validação de endpoints e respostas de APIs.
 
-- [Testes de API com Cypress — Hub de Leitura](https://github.com/Nickgdm/hub-de-leitura-api-teste) — automação de testes de API.
-- [Desafio de testes de API — Hub de Leitura](https://github.com/Nickgdm/hub-de-leitura-api-teste-task) — atividade prática de testes de API REST.
-- [Coleção Postman — Catálogo de Livros](https://github.com/Nickgdm/atividade-API-Ebac) — coleção de requisições para explorar e validar a API do catálogo de livros.
+- [hub-de-leitura-api-teste](https://github.com/Nickgdm/hub-de-leitura-api-teste) — automação de testes de API.
+- [hub-de-leitura-api-teste-task](https://github.com/Nickgdm/hub-de-leitura-api-teste-task) — atividade prática de testes de API REST.
+- [atividade-API-Ebac](https://github.com/Nickgdm/atividade-API-Ebac) — coleção de requisições para explorar e validar a API do catálogo de livros.
 
 ### 3. DevOps — CI/CD e Qualidade Contínua
 
 Atividades que exploram pipelines e integração da execução de testes ao fluxo de desenvolvimento.
 
-- [Pipeline de testes com Jenkins](https://github.com/Nickgdm/ci-cd-teste-jenkins) — configuração de pipeline com Jenkins.
-- [Exemplo de CI/CD com Cypress e Docker](https://github.com/Nickgdm/atividade-ci-cd-teste-exemplo) — arquivos relacionados à integração e execução de testes.
-- [Cypress com Cucumber e Jenkins](https://github.com/Nickgdm/Atividade-cucumber-cypress) — projeto de BDD que também contém um Jenkinsfile.
+- [ci-cd-teste-jenkins](https://github.com/Nickgdm/ci-cd-teste-jenkins) — configuração de pipeline com Jenkins.
+- [atividade-ci-cd-teste-exemplo](https://github.com/Nickgdm/atividade-ci-cd-teste-exemplo) — arquivos relacionados à integração e execução de testes.
+- [Atividade-cucumber-cypress](https://github.com/Nickgdm/Atividade-cucumber-cypress) — projeto de BDD que também contém um Jenkinsfile.
 
 ### 4. Projeto com Docker
 
 Projetos que utilizam containers para configurar aplicações e/ou executar testes em ambientes definidos.
 
-- [Docker — Golden Movie Studio](https://github.com/Nickgdm/atividade-docker) — ambiente com serviços de aplicação e testes Cypress.
-- [Docker — Hub de Leitura](https://github.com/Nickgdm/atividade-docker-hub-de-leitura) — configuração de ambiente para a aplicação e os testes de UI.
+- [atividade-docker](https://github.com/Nickgdm/atividade-docker) — ambiente com serviços de aplicação e testes Cypress.
+- [atividade-docker-hub-de-leitura](https://github.com/Nickgdm/atividade-docker-hub-de-leitura) — configuração de ambiente para a aplicação e os testes de UI.
 
 ### 5. Automação de UI com Cypress — Avançado
 
 Exercícios com recursos avançados do Cypress e/ou especificação de cenários com BDD.
 
-- [Cypress — Intercept e App Actions](https://github.com/Nickgdm/Atividade-Intercept-AppActions-cypress) — prática com interceptação de chamadas e ações da aplicação.
-- [Cypress com Cucumber — BDD](https://github.com/Nickgdm/Atividade-cucumber-cypress) — cenários escritos com Gherkin e abordagem orientada a comportamento.
+- [Atividade-Intercept-AppActions-cypress](https://github.com/Nickgdm/Atividade-Intercept-AppActions-cypress) — prática com interceptação de chamadas e ações da aplicação.
+- [Atividade-cucumber-cypress](https://github.com/Nickgdm/Atividade-cucumber-cypress) — cenários escritos com Gherkin e abordagem orientada a comportamento.
 
 ### 6. Testes de Performance
 
 Projetos para praticar testes de carga e estresse e observar métricas de desempenho.
 
-- [Testes de performance com k6 — Hub de Leitura/API](https://github.com/Nickgdm/atividade-k6) — scripts de teste de performance.
-- [Testes de performance com Apache JMeter — BlazeDemo](https://github.com/Nickgdm/atividade-jmeter-blazedemo) — plano e configuração de testes com JMeter.
+- [atividade-k6](https://github.com/Nickgdm/atividade-k6) — scripts de teste de performance.
+- [atividade-jmeter-blazedemo](https://github.com/Nickgdm/atividade-jmeter-blazedemo) — plano e configuração de testes com JMeter.
 
 ### 7. Automação Mobile com Appium
 
-- [Appium e WebdriverIO](https://github.com/Nickgdm/atividade-appium-wdio) — projeto de automação mobile com cenários voltados a Android.
+- [atividade-appium-wdio](https://github.com/Nickgdm/atividade-appium-wdio) — projeto de automação mobile com cenários voltados a Android.
 
 ### 8. Testes de Unidade com JavaScript
 
-- [JavaScript e Jest](https://github.com/Nickgdm/atividade-exercicio-js) — exercícios de testes unitários e cobertura de código.
+- [atividade-exercicio-js](https://github.com/Nickgdm/atividade-exercicio-js) — exercícios de testes unitários e cobertura de código.
 
 ### 9. Testes com Inteligência Artificial
 
-- [QA Prompt Assistant](https://github.com/Nickgdm/qa-prompt-assistant) — ferramenta de terminal em Python para apoiar a criação e revisão de prompts relacionados a cenários de teste, análise de requisitos, relatos de bugs, testes de API e automação. Explora provedores de IA por API e modelos locais via Ollama. As sugestões devem ser revisadas e validadas por uma pessoa; a ferramenta é um apoio, não substitui a análise de QA.
+- [qa-prompt-assistant](https://github.com/Nickgdm/qa-prompt-assistant) — ferramenta de terminal em Python para apoiar a criação e revisão de prompts relacionados a cenários de teste, análise de requisitos, relatos de bugs, testes de API e automação. Explora provedores de IA por API e modelos locais via Ollama. As sugestões devem ser revisadas e validadas por uma pessoa; a ferramenta é um apoio, não substitui a análise de QA.
 
 ## Projetos complementares da formação
 
 Os repositórios abaixo complementam os estudos, mas não substituem os projetos listados nas nove categorias principais.
 
-- [Exercícios BDD/Gherkin — EBAC](https://github.com/Nickgdm/Ebac) — arquivos `.feature` com cenários de cadastro, configuração e login. O repositório reúne especificações Gherkin; consulte seus arquivos para verificar o escopo implementado.
-- [Consultas SQL](https://github.com/Nickgdm/atividade-SQL) — exercícios de consultas em banco de dados relacional.
-- [Consultas MongoDB/NoSQL](https://github.com/Nickgdm/atividade-NoSQL) — consultas e dados de exemplo para praticar operações NoSQL.
-- [Fundamentos de Git e GitHub — EBAC](https://github.com/Nickgdm/aula-git-ebac) — atividade introdutória de versionamento.
+- [Ebac](https://github.com/Nickgdm/Ebac) — arquivos `.feature` com cenários de cadastro, configuração e login. O repositório reúne especificações Gherkin; consulte seus arquivos para verificar o escopo implementado.
+- [atividade-SQL](https://github.com/Nickgdm/atividade-SQL) — exercícios de consultas em banco de dados relacional.
+- [atividade-NoSQL](https://github.com/Nickgdm/atividade-NoSQL) — consultas e dados de exemplo para praticar operações NoSQL.
+- [aula-git-ebac](https://github.com/Nickgdm/aula-git-ebac) — atividade introdutória de versionamento.
 
 ## Tecnologias e ferramentas
 
