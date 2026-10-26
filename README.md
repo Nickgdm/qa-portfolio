@@ -57,9 +57,9 @@ Cenários e ferramentas para praticar testes de carga e análise de desempenho.
 
 - [Testes unitários com JavaScript e Jest](https://github.com/Nickgdm/atividade-exercicio-js) — exercícios de testes unitários e cobertura de código.
 
-## 9. Testes com Inteligência Artificial
+## 9. Inteligência Artificial aplicada a QA
 
-**Projeto específico de testes com IA não identificado entre os repositórios atualmente listados.** Esta categoria permanece pendente para atender integralmente ao exercício. Se você desenvolver ou identificar um repositório dedicado, ele poderá ser incluído aqui. Não classifico projetos como IA sem evidências de uso dessa tecnologia.
+- [QA Prompt Assistant](https://github.com/Nickgdm/qa-prompt-assistant) — ferramenta de terminal em Python para apoiar a criação e revisão de prompts relacionados a casos de teste, análise de requisitos, relatos de bugs, testes de API e automação. Explora provedores de IA por API e modelos locais via Ollama. A saída gerada deve ser revisada criticamente; a ferramenta apoia o trabalho de QA, mas não substitui a validação humana.
 
 ## Projetos complementares da formação
 
